@@ -4,3 +4,15 @@
  * This is a general purpose Gradle build.
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds/
  */
+//Add the JCenter repository to all projects.
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+//Now set the version for each of the modules which you will be adding, via the subproject block in
+// the top-level build script as follows
+subprojects {
+    version = '1.0'
+}
