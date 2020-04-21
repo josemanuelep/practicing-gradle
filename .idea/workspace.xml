@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2304f63f-2b90-49a5-a051-f8ad0491e322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/src/main/java/greeter/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/src/main/java/greeter/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeter/src/test/java/greeter/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting-library/src/main/groovy/greeter/GreetingFormatter.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting-library/src/test/groovy/greeter/GreetingFormatterSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greeting-library/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/greeting-library/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
