@@ -107,14 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1587412140242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Last commit, practice done">
+      <created>1587482576691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587482576691</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fisrt config to build.gradle" />
     <MESSAGE value="Adding other project to build called greeting-library" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding other project to build called greeting-library" />
+    <MESSAGE value="Last commit, practice done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last commit, practice done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1598" y="154" key="#Project_Structure" timestamp="1587414313941">
@@ -125,10 +133,10 @@
       <screen x="1366" y="0" width="1280" height="994" />
     </state>
     <state x="1736" y="144" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1587412682067" />
-    <state x="1614" y="4" key="CommitChangelistDialog2" timestamp="1587412136263">
+    <state x="1614" y="4" key="CommitChangelistDialog2" timestamp="1587482572553">
       <screen x="1366" y="0" width="1280" height="994" />
     </state>
-    <state x="1614" y="4" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1587412136263" />
+    <state x="1614" y="4" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1587482572553" />
     <state x="1786" y="237" key="FileChooserDialogImpl" timestamp="1587412815752">
       <screen x="1366" y="0" width="1280" height="994" />
     </state>
@@ -137,10 +145,10 @@
       <screen x="1366" y="0" width="1280" height="994" />
     </state>
     <state x="1486" y="70" key="SettingsEditor/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1587412700056" />
-    <state x="1598" y="225" key="Vcs.Push.Dialog.v2" timestamp="1587412143411">
+    <state x="1598" y="225" key="Vcs.Push.Dialog.v2" timestamp="1587482580291">
       <screen x="1366" y="0" width="1280" height="994" />
     </state>
-    <state x="1598" y="225" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1587412143411" />
+    <state x="1598" y="225" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1280.994@1366.0.1280.994" timestamp="1587482580291" />
     <state x="1682" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1587411453283">
       <screen x="1366" y="0" width="1280" height="994" />
     </state>
